@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/js/index.js"],"names":[],"mappings":";;AAAA;;;;;;AAEA,CAAE,YAAW;;AAEZ;;AAEA,SAAQ,GAAR,CAAa,IAAb;AAEA,CAND","file":"build.js","sourcesContent":["import initialize from './init.js'\n\n( function() {\n\n\tinitialize()\n\n\tconsole.log( 'hi' )\n\n} )()\n"]}
